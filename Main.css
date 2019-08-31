@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+    margin:
+}
+
+Nav,
+header {
+    background-color: black
+}
+
+a {
+    text-decoration: none;
+}
+
+/* specific section 8*/
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul a {
+    color: white;
+    font-weight: 700;
+}
+
+img {
+    /* width: 10vw; */
+    height: 20vh;
+    margin: 20px
+}
+
+#design {
+    background-color: white;
+    margin: 0 8.3% 0 8.3%;
+    border-radius: 20px;
+    box-shadow: 0 10px 10px 0 rgba(210, 210, 210, 0.5);
+}
